@@ -1,16 +1,18 @@
-### Hi there 👋
+### Whats up, I'm Marcel 👋
+applied Computer Science student at [Warsaw University of Technology](https://www.pw.edu.pl/engpw). Full-stack/front-end developer with passion for cars, films and comedy. I've always wanted to create content but i can't draw or sing so im trying my best to express myself with code 
 
-<!--
-**WinterOdin/WinterOdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning Big Data, Machine Learning and Data Science but things do be hard ngl
+- ⚙️ Trying to Master `.html`,`.css`,`.js`,`.py`
+- 👯 I’m looking to collaborate with other content creators
+- 🏎️ One of my life goals is to run my own racing team or driving for one
 
-Here are some ideas to get you started:
+### 📬 Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [github.com/federico-dondi][github]
+- LinkedIn: [https://www.linkedin.com/in/marcel-czuryszkiewicz-38ba36172/][linkedin]
+- Site: [https://winterodin.vcraft.pl/][website]
+- E-mail: cczuryszkiewicz@gmail.com
+
+### 📚 Looking for my Resume? E-Mail me!
+
+
